@@ -1,0 +1,48 @@
+
+Question 1
+
+Which option describes a good DevOps practice?
+
+Ans) Perform frequent application deployments
+
+
+Question 2
+
+What does the sample application used in the course use AWS Lambda for? 
+
+Ans) As a serverless compute service 
+
+
+Question 3
+
+Which identity can be used with the git-remote-codecommit command to authenticate to an AWS CodeCommit repository?
+
+Ans) Credentials from an AWS Identity and Access Management (IAM) user
+
+
+Question 4
+
+Which source control system’s standard functionality is supported by AWS CodeCommit repositories?
+
+Ans) Git
+
+
+Question 5
+
+Developers can use AWS CodeBuild to compile source, run tests, and create deployment packages. Which type of image is the build project environment for this course configured with?
+
+Ans) Docker image
+
+
+Question 6
+
+A developer is working on a project to add cryptocurrency as a form of payment in an ecommerce application. They create a Git branch to add the commits. What is this type of branch called?
+
+Ans) A feature branch
+
+
+Question 7
+
+In the following Git diagram, the commit at the bottom of the diagram has two parents. Which Git operation would create a commit like this?
+
+Ans) git merge
