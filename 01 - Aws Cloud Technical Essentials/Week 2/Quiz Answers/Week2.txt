@@ -1,0 +1,75 @@
+Question 1
+
+Which of the following pieces of information do you need to create a Virtual Private Cloud (VPC)?
+
+Ans) The AWS Region it will reside in.
+
+
+Question 2
+
+Which of the following can a route table be attached to?
+
+Ans) Subnets
+
+
+Question 3
+
+What must you do to allow resources in a public subnet to communicate with the internet?
+
+Ans) B and C
+
+
+Question 4
+
+True or false: A network ACL filters traffic at the EC2 instance level.
+
+Ans) False
+
+
+Question 5
+
+Which of the following is true for the default settings of a security group?
+
+Ans) Blocks all inbound traffic and allows all outbound traffic.
+
+
+Question 6
+
+What does an Amazon EC2 instance type indicate?
+
+Ans) Instance family and instance size
+
+
+Question 7
+
+True or false: EC2 instances reside at the Availability Zone level, so it’s best practice to architect for high availability.
+
+Ans) True
+
+
+Question 8
+
+What is the difference between AWS Fargate and Amazon ECS on EC2?
+
+Ans) With AWS Fargate, AWS manages and provisions the underlying infrastructure for hosting your containers.
+
+
+Question 9
+
+Which of the following is true about serverless?
+
+Ans) You never pay for idle resources.
+
+
+Question 10
+
+True or false: AWS Lambda is always the best solution when running applications on AWS.
+
+Ans) False
+
+
+Question 11
+
+True or false: Amazon EC2 is best suited for applications where you need more convenience and less control.
+
+Ans) False
