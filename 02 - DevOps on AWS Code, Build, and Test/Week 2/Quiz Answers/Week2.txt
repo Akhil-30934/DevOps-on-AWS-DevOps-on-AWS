@@ -1,0 +1,45 @@
+Question 1
+
+A developer must change the checkout functionality of an ecommerce site. Testers are reporting that user registration is no longer creating new users. 
+Which type of testing is designed to catch this form of bug?
+
+Ans) Regression testing
+
+
+Question 2
+
+True or False: The sooner that a bug that was added to an application is discovered, it will be easier, faster, and cheaper to fix.
+
+Ans) True
+
+
+Question 3
+
+Which tool tests if code meets a coding style standard?
+
+Ans) A linter
+
+
+Question 4
+
+A developer has unit tests running in AWS CodeBuild, and they want to make the JUnit testing results available for others to view in the AWS Management Console. Which section of the buildspec file would they use to configure this functionality?
+
+Ans) reports
+
+
+Question 5
+
+A developer stores source code in AWS CodeCommit, and they configure unit tests to run in AWS CodeBuild. To follow continuous integration best practices, they want to build and test their code with each code update.  Which service would they use to coordinate these tasks?
+
+Ans) AWS CodePipeline
+
+
+Question 6
+
+True or False: In AWS CodeBuild, a user can pause a build, use AWS Systems Manager Session Manager to connect to the build container, and then resume the build.
+
+Ans) True
+
+
+
+
