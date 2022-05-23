@@ -1,0 +1,33 @@
+Question 1
+
+True or False: Continuous deployment requires manual approval to release to production, and continuous delivery automates releases and does not require explicit approval.
+
+Ans) False
+
+
+Question 2
+
+Which section can be included in the AppSpec file?
+
+Ans) Hooks
+
+
+Question 3
+
+Where does AWS CodePipeline store input and output artifacts? 
+
+Ans) An Amazon S3 bucket that CodePipeline creates
+
+
+Question 4
+
+What should be checked first when an AWS CodeDeploy deployment fails? 
+
+Ans) Deployment Details in the CodeDeploy console
+
+
+Question 5
+
+Which resource or setting do you specify when you create an AWS CodeDeploy deployment group for an application that runs on Amazon EC2?
+
+Ans) Deployment Style - In-place or Blue/green 
