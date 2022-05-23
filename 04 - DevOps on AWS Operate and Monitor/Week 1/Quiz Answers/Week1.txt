@@ -1,0 +1,40 @@
+Question 1
+
+Which statement about Amazon CloudWatch metrics is correct?
+
+Ans) Custom metrics can be used to collect any kind of infrastructure or application-related information.
+
+
+Question 2
+
+True or False: The CloudWatch agent is already installed in Amazon Linux 2 by default.
+
+Ans) True
+
+
+Question 3
+
+True or False: Amazon CloudWatch monitoring can be used only for infrastructure-related topics, such as CPU utilization and memory consumption.
+
+Ans) False
+
+
+Question 4
+
+True or False: AWS Config is a service that can be used to assess, audit, and evaluate the configurations of AWS resources.
+
+Ans) True
+
+
+Question 5
+
+Which statement about AWS Config is correct?
+
+Ans) AWS Config data can be queried through the AWS Management Console, or by getting the files it stores in the configured S3 bucket.
+
+
+Question 6
+
+True or False: VPC Flow Logs is the most efficient way to diagnose application failures, such as a malformed POST in an HTTP request.
+
+Ans) False 
