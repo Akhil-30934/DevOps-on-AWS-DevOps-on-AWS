@@ -1,0 +1,40 @@
+Question 1
+
+True or False: The AWS CloudFormation change sets feature can be used to preview the changes in a CloudFormation stack before applying an Update Stack call, and a user is 100 percent resilient against deletion accidents in their stack operations if they use change sets.
+
+Ans) False
+
+
+Question 2
+
+True or False: Operational best practices include consulting the AWS Documentation for Update Requires on the attributes of resources that will be changed, and using DeletionPolicy: Retain  or DeletionPolicy: Snapshot on resources used for storing customer data
+
+Ans) True
+
+
+Question 3
+
+True or False: The AWS CloudFormation drift detection feature can detect if code running on the instances matches the code that was initially deployed by the stack.
+
+Ans) False
+
+
+Question 4
+
+True or False: AWS Systems Manager is a managed AWS service that provides a suite of tools for managing both Amazon EC2 instances and AWS infrastructure.
+
+Ans) True
+
+
+Question 5
+
+Which AWS Systems Manager feature is used to interactively access the OS of an Amazon EC2 instance?
+
+Ans) Session Manager
+
+
+Question 6
+
+True or False: AWS Systems Manager documents (SSM documents) provide blueprints of architecture actions that can be orchestrated across an AWS Cloud environment
+
+Ans) True
