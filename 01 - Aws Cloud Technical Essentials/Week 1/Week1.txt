@@ -1,0 +1,84 @@
+
+Question 1
+
+What are the four main factors you should take into consideration when choosing a Region?
+
+Ans) Latency, price, service availability, and compliance
+
+
+Question 2
+
+True or false: Every action you take in AWS is an API call.
+
+Ans) True
+
+
+
+Question 3
+
+Which of the following best describes the relationship between Regions, Availability Zones and data centers?
+
+Ans) Regions are clusters of Availability Zones. Availability Zones are clusters of data centers. 
+
+
+
+Question 4
+
+Which of the following is a benefit of cloud computing?
+
+Ans) Go global in minutes
+
+
+
+Question 5
+
+True or false: In the cloud, instead of physically managing hardware, you use services.
+
+Ans) True
+
+
+
+Question 6
+
+Which of the following is a best practice when securing the AWS root user?
+
+Ans) A and C
+
+
+
+
+Question 7
+
+Users in your company are authenticated in your corporate network and want to be able to use AWS without having to sign in again. Which AWS authentication option should you use?
+
+Ans) IAM Role
+
+
+
+Question 8
+
+Which of the following can be found in an IAM policy?
+
+Ans) A and B
+
+
+
+Question 9
+
+True or false: IAM policies can restrict the actions of the AWS root user.
+
+Ans) False
+
+
+
+Question 10
+
+Using a username and password, as well as a one-time passcode, to log in to an account is an example of multi-factor authentication.
+
+Ans) True
+
+
+
+
+
+
