@@ -1,0 +1,49 @@
+Question 1
+
+What are the three components of EC2 Auto Scaling?
+
+Ans) Launch template, scaling policies, EC2 Auto Scaling group
+
+
+Question 2
+
+Elastic Load Balancing includes which of these features?
+
+Ans) A and C
+
+
+Question 3
+
+True or false: When you use Elastic Load Balancing with your Auto Scaling group, it's not necessary to register individual EC2 instances with the load balancer.
+
+Ans) True
+
+
+Question 4
+
+Which of the following ELB load balancer types should be used for an application requiring to choose target groups with a rule based on the domain of a website?
+
+Ans) Application Load Balancer
+
+
+Question 5
+
+What are the two ways that an application can be scaled?
+
+Ans) Vertically and horizontally
+
+
+Question 6
+
+Dashboards contain different elements that allow you to view/analyze metrics called:
+
+Ans) Widgets
+
+
+Question 7
+
+A metric alarm have what following possible states?
+
+Ans) OK, ALARM, INSUFFICIENT_DATA
+
+
