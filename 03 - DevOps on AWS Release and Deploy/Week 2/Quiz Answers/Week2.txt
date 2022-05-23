@@ -1,0 +1,26 @@
+Question 1
+
+True or False: AWS CloudFormation is a service that can be used to declare your infrastructure in a text file, using either JSON or YAML. 
+
+Ans) True
+
+
+Question 2
+
+Which error describes when AWS CloudFormation tries to create a resource that depends on another resource that hasn't been created yet?
+
+Ans) Dependency error
+
+
+Question 3
+
+True or False: An AWS CodePipeline resource cannot be created by using AWS CloudFormation syntax. 
+
+Ans) False
+
+
+Question 4
+
+Which resource does AWS Serverless Application Model (AWS SAM) syntax expand and transform into?
+
+Ans) AWS CloudFormation template
